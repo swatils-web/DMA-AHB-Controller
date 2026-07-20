@@ -1,0 +1,17 @@
+# Vivado build artifacts
+*.jou
+*.log
+*.str
+*.xpr
+
+# Vivado generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.Xil/
+
+# Temporary files
+*.wdb
+*.wcfg
