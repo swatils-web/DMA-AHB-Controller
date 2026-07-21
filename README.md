@@ -1,8 +1,8 @@
 # DMA Controller (AHB/APB Compliant)
 
 ## Overview
-4-Channel, 32-bit DMA Controller implemented in Verilog HDL.  
-Compliant with AMBA AHB/APB protocols.
+This repository contains a 4-Channel, 32-bit DMA Controller IP Core implemented in Verilog HDL.  
+It is compliant with AMBA AHB/APB protocols.
 
 ## Directory Structure
 - `src/` : RTL source files
