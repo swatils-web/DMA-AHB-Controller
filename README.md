@@ -40,9 +40,8 @@ Key highlights:
 ---
 
 ## 📊 Block Diagram
-*(<img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/f5bd45ee-81d7-42f9-af9a-6c266a77d162" />  <img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/a0078be2-e505-45f6-bb47-425de60385a6" /> 
+<img width="940" height="471" alt="image" src="https://github.com/user-attachments/assets/f5bd45ee-81d7-42f9-af9a-6c266a77d162" />  <img width="940" height="481" alt="image" src="https://github.com/user-attachments/assets/a0078be2-e505-45f6-bb47-425de60385a6" /> 
 
-)*
 
 ---
 
